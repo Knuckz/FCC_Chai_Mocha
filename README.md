@@ -1,1 +1,4 @@
-# FCC_Chai_Mocha
+FCC Test Challengs Prototype 
+============================
+
+QA with mocha & chai
